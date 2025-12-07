@@ -1,0 +1,17 @@
+name: MusicDiscEffects
+version: '1.7'
+main: me.cheese.musicdisc.MusicDiscEffects
+api-version: '1.21.8'
+prefix: DiscoSMP MusicEffects
+authors: [ outerspacepugyt ]
+description: DiscoSMP MusicEffects
+website: coffeepixel.net
+commands:
+  music:
+    description: Manage music disc effects
+    usage: /music
+    permission: musicdisc.admin
+permissions:
+  musicdisc.admin:
+    description: Allows managing disc effects
+    default: op

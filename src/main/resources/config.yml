@@ -1,0 +1,106 @@
+discs:
+
+  MUSIC_DISC_TEARS:
+    effect: STRENGTH
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_LAVA_CHICKEN:
+    effect: STRENGTH
+    level: 1
+    infinite: true
+
+  MUSIC_DISC_5:
+    effect: RESISTANCE
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_PIGSTEP:
+    effect: FIRE_RESISTANCE
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_11:
+    effect: INVISIBILITY
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_13:
+    effect: NIGHT_VISION
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_CAT:
+    effect: LUCK
+    level: 5
+    infinite: true
+
+  MUSIC_DISC_MELLOHI:
+    effect: CONDUIT_POWER
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_WAIT:
+    effect: DOLPHINS_GRACE
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_CHIRP:
+    effect: SLOW_FALLING
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_CREATOR_MUSIC_BOX:
+    effect: HASTE
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_RELIC:
+    effect: HASTE
+    level: 1
+    infinite: true
+
+  MUSIC_DISC_PRECIPICE:
+    effect: SPEED
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_CREATOR:
+    effect: SPEED
+    level: 1
+    infinite: true
+
+  MUSIC_DISC_OTHERSIDE:
+    effect: HEALTH_BOOST
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_FAR:
+    effect: JUMP_BOOST
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_BLOCKS:
+    effect: JUMP_BOOST
+    level: 1
+    infinite: true
+
+  MUSIC_DISC_STAL:
+    effect: WATER_BREATHING
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_STRAD:
+    effect: HERO_OF_THE_VILLAGE
+    level: 0
+    infinite: true
+
+  MUSIC_DISC_WARD:
+    effect: HERO_OF_THE_VILLAGE
+    level: 1
+    infinite: true
+
+  MUSIC_DISC_MALL:
+    effect: HERO_OF_THE_VILLAGE
+    level: 2
+    infinite: true
